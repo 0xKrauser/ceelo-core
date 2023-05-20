@@ -1,0 +1,207 @@
+[
+  {
+    "roll": [1, 1, 1],
+    "name": "triple_one",
+    "outcome": "lose_three"
+  },
+  {
+    "roll": [1, 1, 2],
+    "name": "point_two",
+    "outcome": "point"
+  },
+  {
+    "roll": [1, 1, 3],
+    "name": "point_three",
+    "outcome": "point"
+  },
+  {
+    "roll": [1, 2, 2],
+    "name": "point_one",
+    "outcome": "lose"
+  },
+  {
+    "roll": [1, 1, 4],
+    "name": "point_four",
+    "outcome": "point"
+  },
+  {
+    "roll": [1, 2, 3],
+    "name": "hifumi",
+    "outcome": "lose_two"
+  },
+  {
+    "roll": [2, 2, 2],
+    "name": "triple_two",
+    "outcome": "win_three"
+  },
+  {
+    "roll": [1, 1, 5],
+    "name": "point_five",
+    "outcome": "point"
+  },
+  {
+    "roll": [1, 3, 3],
+    "name": "point_one",
+    "outcome": "lose"
+  },
+  {
+    "roll": [2, 2, 3],
+    "name": "point_two",
+    "outcome": "point"
+  },
+  {
+    "roll": [1, 1, 6],
+    "name": "point_six",
+    "outcome": "win"
+  },
+  {
+    "roll": [2, 2, 4],
+    "name": "point_four",
+    "outcome": "point"
+  },
+  {
+    "roll": [2, 3, 3],
+    "name": "point_two",
+    "outcome": "point"
+  },
+  {
+    "roll": [1, 3, 5],
+    "name": "all_odds",
+    "outcome": "matches_previous"
+  },
+  {
+    "roll": [1, 4, 4],
+    "name": "point_one",
+    "outcome": "lose"
+  },
+  {
+    "roll": [2, 2, 5],
+    "name": "point_five",
+    "outcome": "point"
+  },
+  {
+    "roll": [3, 3, 3],
+    "name": "triple_three",
+    "outcome": "win_three"
+  },
+  {
+    "roll": [2, 2, 6],
+    "name": "point_six",
+    "outcome": "win"
+  },
+  {
+    "roll": [2, 4, 4],
+    "name": "point_two",
+    "outcome": "point"
+  },
+  {
+    "roll": [3, 3, 4],
+    "name": "point_four",
+    "outcome": "point"
+  },
+  {
+    "roll": [1, 5, 5],
+    "name": "point_one",
+    "outcome": "lose"
+  },
+  {
+    "roll": [3, 3, 5],
+    "name": "point_five",
+    "outcome": "point"
+  },
+  {
+    "roll": [3, 4, 4],
+    "name": "point_four",
+    "outcome": "point"
+  },
+  {
+    "roll": [2, 4, 6],
+    "name": "all_evens",
+    "outcome": "matches_next"
+  },
+  {
+    "roll": [2, 5, 5],
+    "name": "point_two",
+    "outcome": "point"
+  },
+  {
+    "roll": [3, 3, 6],
+    "name": "point_six",
+    "outcome": "win"
+  },
+  {
+    "roll": [4, 4, 4],
+    "name": "triple_four",
+    "outcome": "win_three"
+  },
+  {
+    "roll": [1, 6, 6],
+    "name": "point_one",
+    "outcome": "lose"
+  },
+  {
+    "roll": [3, 4, 6],
+    "name": "musashi",
+    "outcome": "win"
+  },
+  {
+    "roll": [3, 5, 5],
+    "name": "point_three",
+    "outcome": "point"
+  },
+  {
+    "roll": [4, 4, 5],
+    "name": "point_five",
+    "outcome": "point"
+  },
+  {
+    "roll": [2, 6, 6],
+    "name": "point_two",
+    "outcome": "point"
+  },
+  {
+    "roll": [4, 4, 6],
+    "name": "point_six",
+    "outcome": "win"
+  },
+  {
+    "roll": [4, 5, 5],
+    "name": "point_four",
+    "outcome": "point"
+  },
+  {
+    "roll": [3, 6, 6],
+    "name": "point_three",
+    "outcome": "point"
+  },
+  {
+    "roll": [4, 5, 6],
+    "name": "shigoro",
+    "outcome": "win_two"
+  },
+  {
+    "roll": [5, 5, 5],
+    "name": "triple_five",
+    "outcome": "win_three"
+  },
+  {
+    "roll": [4, 6, 6],
+    "name": "point_four",
+    "outcome": "point"
+  },
+  {
+    "roll": [5, 5, 6],
+    "name": "point_six",
+    "outcome": "win"
+  },
+  {
+    "roll": [5, 6, 6],
+    "name": "point_five",
+    "outcome": "point"
+  },
+  {
+    "roll": [6, 6, 6],
+    "name": "triple_six",
+    "outcome": "win_three"
+  }
+]
